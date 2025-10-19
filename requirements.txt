@@ -1,0 +1,21 @@
+# Core LLM + Framework
+langchain==0.3.4
+langchain-core==0.3.15
+langchain-openai==0.2.3
+langchain-experimental==0.3.2
+langgraph==0.2.39
+
+# Supporting Tools
+python-dotenv==1.0.1
+requests==2.32.3
+typing-extensions==4.12.2
+pydantic==2.9.2
+protobuf==4.25.8
+
+# PDF and Graphics
+reportlab==3.6.13
+pillow==10.4.0
+
+# Optional: For notebook testing
+jupyter==1.1.1
+ipykernel==7.0.1
